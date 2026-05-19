@@ -9027,3 +9027,19 @@ A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass 
 ```
 
 ***
+
+<a name="case-445"></a>
+
+### 例 445：旅游照水墨明信片
+
+![旅游照水墨明信片](../data/images/case445.jpg)
+
+**来源：** [@zhgqthomas](https://x.com/zhgqthomas/status/2056633723366568387)
+
+**提示词：**
+
+```text
+Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.
+```
+
+***

@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/freestylefly/awesome-gpt-image-2",
-  "totalCases": 441,
+  "totalCases": 442,
   "categories": [
     "Architecture & Spaces",
     "Brand & Logos",
@@ -50,6 +50,28 @@
     "Travel"
   ],
   "cases": [
+    {
+      "id": 445,
+      "title": "旅游照水墨明信片",
+      "image": "/images/case445.jpg",
+      "imageAlt": "旅游照水墨明信片",
+      "sourceLabel": "@zhgqthomas",
+      "sourceUrl": "https://x.com/zhgqthomas/status/2056633723366568387",
+      "prompt": "Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.",
+      "promptPreview": "Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loo",
+      "category": "Illustration & Art",
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ],
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "featured": false,
+      "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-445"
+    },
     {
       "id": 444,
       "title": "迪斯科镜面 3D App 图标",
